@@ -1,3 +1,5 @@
+[![](https://markdown-videos-api.jorgenkh.no/youtube/{TwwSLi_niaA})](https://youtu.be/{TwwSLi_niaA})
+
 ## KISMI Ecosystem
 
 #startup #ecosystem #dao #accelerator #ai #blockchain #community  

@@ -1,14 +1,14 @@
-# KISMI Ecosystem
+## KISMI Ecosystem
 
 #startup #ecosystem #dao #accelerator #ai #blockchain #community  
 
-# Company:
+### Company:
 KISMI Inc.
 
-# One liner:
+### One liner:
 New lifestyle social interaction ecosystem.
 
-# Description:
+### Description:
 KISMI: A worldwide community-driven Soci-Fi ecosystem powered by a business accelerator to help succeed various innovative, social, ai, and web 3.0 projects. Aimed to bring like-minded people together for self, local, and global growth.
 
 Geo:
@@ -18,7 +18,7 @@ Team:
 CEO & founder
 CEO is serial entrepreneur 
 
-# Traction:
+### Traction:
 International community: 5000, 
 Campaigns, events launched: 8
 Grants received: 3
@@ -35,7 +35,7 @@ $1 M seed on SAFE
 Pitch deck: link
 
 
-# KISMI.APP & KISMI community
+## KISMI.APP & KISMI community
 ### Web2/Web3 Photo Voting App (Gamified real-time Photo Contests).
 
 Linktree: [https://linktr.ee/kismi](https://linktr.ee/kismi)

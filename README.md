@@ -7,7 +7,7 @@
 KISMI Inc.
 
 ### One liner:
-New lifestyle social interaction ecosystem.
+New lifestyle socio-economic interaction ecosystem.
 
 ### Description:
 KISMI: A worldwide community-driven Soci-Fi ecosystem powered by a business accelerator to help succeed various innovative, social, ai, and web 3.0 projects. Aimed to bring like-minded people together for self, local, and global growth.

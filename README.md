@@ -1,6 +1,5 @@
-
-
 ## KISMI Ecosystem
+### Youtube https://www.youtube.com/watch?v=TwwSLi_niaA 
 
 #startup #ecosystem #dao #accelerator #ai #blockchain #community  
 

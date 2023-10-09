@@ -3,6 +3,9 @@
 
 #startup #ecosystem #dao #accelerator #ai #blockchain #community  
 
+### Structure:
+#### https://github.com/kismiapp/ecosystem/blob/main/KISMI%20ecosystem%20v3.0.pdf
+
 ### Company:
 KISMI Inc.
 
